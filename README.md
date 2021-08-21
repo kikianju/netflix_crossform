@@ -1,16 +1,17 @@
 # netflix
 
-A new Flutter project.
+#this is practice for flutter, firebase
+so you have to install about this enviroments
 
-## Getting Started
+flutter, npm, firebase
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+$cd your project
+$ sudo gem install cocoapods
+$ pop setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+check npm install or not
+$npm-v
+$sudo npm install -g firebase-tools
+$firebase login
+$firebase use
