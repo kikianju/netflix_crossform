@@ -1,6 +1,6 @@
 # netflix
 
-#this is practice for flutter, firebase
+#this is practice for flutter, firebase on MAC
 so you have to install about this enviroments
 
 flutter, npm, firebase
@@ -15,3 +15,5 @@ $npm-v <br>
 $sudo npm install -g firebase-tools <br>
 $firebase login <br>
 $firebase use <br>
+
+
